@@ -3,7 +3,7 @@ package testpackage1;
 public class Odd_number {
 
 	public static void main(String[] args) {
-		int k=20;
+		int k=22;
 		for(int o=1;o<=k;o++)
 		{
 			if(o%2==0)

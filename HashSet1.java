@@ -11,7 +11,7 @@ public class HashSet1
 	{
 		 HashSet<Integer> s = new HashSet<Integer>();
 		
-		s.add(56);
+		s.add(58);
 		s.add(89);
 		s.add(76);
 		s.add(87);

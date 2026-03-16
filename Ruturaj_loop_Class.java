@@ -5,7 +5,7 @@ public class Ruturaj_loop_Class {   //class
 	public static void main(String[]args)  //main method
 	{
 		//for loop( datatype value assign; variable condition ; increement
-		for(int a=5 ; a> 8 ; a++)
+		for(int a=5 ; a> 15 ; a++)
 	
 		{
 			System.out.println("HELLO SANGLIKAR");

@@ -10,7 +10,7 @@ public class Hashmap
 		HashMap<String,Integer> capitalcities = new HashMap<>();
 		
 		
-		capitalcities.put("Netherlands", 20);
+		capitalcities.put("Portugaul", 20);
 		
 		capitalcities.put("USA", 56);
 		
